@@ -1,0 +1,51 @@
+header {
+    display: inline-flexbox;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 5px 5px 35px darkolivegreen; 
+}
+
+    #logo {
+        width: auto;
+        height: 60px;
+    }
+body {
+    margin: 0;
+    background-color: gray;
+}
+button {
+    background-color: lawngreen;
+    color: white;
+    padding: 10px 20px;
+    border-style: solid;
+    border-radius: 23px;
+}
+.title {
+    text-align: center;
+    font-size: 45px;
+    color: maroon;
+}
+main {
+    width: 100%;
+    max-width: 550px;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+}
+ul {
+    display: ruby-base;
+    justify-content: center;
+}
+li {
+    margin: 0 5px;
+    list-style: square;
+}
+li a {
+    color: olive;
+    text-decoration: none;
+    text-underline-position: above;
+}
+
+ 
